@@ -10,6 +10,7 @@ public class c_validador {
 	
 	String nombre;
 	String tipo;
+	String a;
 	
 	public List obtenerTipos(String dato) {
 		

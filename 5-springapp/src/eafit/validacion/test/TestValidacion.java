@@ -20,7 +20,7 @@ public class TestValidacion {
 
 	@Parameters
 	public static Collection<Object[]> data() {
-		return Arrays.asList(new Object[][] { { "consulta1" }, { "consulta2" }, { "consulta3" }, { "" } });
+		return Arrays.asList(new Object[][] { { "co00nsulta1" }, { "consulta2" }, { "consulta3" }, { "" } });
 	}
 
 	public TestValidacion(String na) {
